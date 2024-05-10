@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#personnelList {
+    margin-top: 20px;
+}
+
+.personnel {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
